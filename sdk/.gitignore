@@ -1,0 +1,4 @@
+.ieda
+.gradle
+*.iml
+local.properties
